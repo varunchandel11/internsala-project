@@ -1,5 +1,7 @@
 # internsala-project
 Lead Acquisition and Conversion Analysis Report
+
+
 Overview
 This project analyzes lead generation and interaction patterns to optimize marketing strategies and improve course engagement.
 
